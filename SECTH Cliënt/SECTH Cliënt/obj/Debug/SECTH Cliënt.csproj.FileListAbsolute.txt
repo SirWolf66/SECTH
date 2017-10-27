@@ -1,0 +1,8 @@
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe.config
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.pdb
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Form1.resources
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Properties.Resources.resources
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.GenerateResource.Cache
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.exe
+c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.pdb
