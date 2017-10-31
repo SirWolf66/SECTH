@@ -23,7 +23,8 @@ namespace SECTH_Cliënt
             String str = Console.ReadLine();
             Stream stm = tcpClient.GetStream();
 
-
+            //CummunicationFile communicationFile = new CummunicationFile();
+            //Convert.ToByte(communicationFile);
 
             ASCIIEncoding asen = new ASCIIEncoding();
             byte[] ba = asen.GetBytes(str);

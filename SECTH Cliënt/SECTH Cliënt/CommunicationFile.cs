@@ -25,5 +25,11 @@ namespace SECTH_Cliënt
         public string Message { get => message; }
         public string Language { get => language; }
         public DateTime WriteTime { get => writeTime; }
+
+        public byte[] ConvertToByteArray()
+        {
+            return new byte[Convert.ToByte(author) + Convert.ToByte(message) + Convert.ToByte(language) + Convert.ToByte(writeTime)];
+        }
+
     }
 }
