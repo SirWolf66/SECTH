@@ -37,7 +37,7 @@ namespace WindowsFormsApp3
 
         public void ReadData(ClientInfo ci, String text)
         {
-            MessageBox.Show("WORKING?");
+            //MessageBox.Show("WORKING?");
             Console.WriteLine("Received from " + ci.ID + ": " + text);
             if (text[0] == '!')
                 server.Broadcast(Encoding.UTF8.GetBytes(text));
