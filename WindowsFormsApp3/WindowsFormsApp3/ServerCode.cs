@@ -4,6 +4,9 @@ using System.Net;
 using System.Net.Sockets;
 using System.Collections.Generic;
 
+using RedCorona.Net;
+
+
 namespace WindowsFormsApp3
 {
     class ServerCode
