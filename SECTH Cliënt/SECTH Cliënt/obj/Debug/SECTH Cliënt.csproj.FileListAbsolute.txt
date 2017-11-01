@@ -18,3 +18,15 @@ C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj
 C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.CoreCompileInputs.cache
 C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.exe
 C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.pdb
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe.config
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.pdb
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csprojResolveAssemblyReference.cache
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Dashboard.resources
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Form1.resources
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Login.resources
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Properties.Resources.resources
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.GenerateResource.Cache
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.CoreCompileInputs.cache
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.exe
+C:\Users\Makoto\Source\Repos\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.pdb

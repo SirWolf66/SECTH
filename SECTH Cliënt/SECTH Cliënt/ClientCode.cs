@@ -15,10 +15,10 @@ namespace SECTH_Cliënt
         //https://codeabout.wordpress.com/2011/03/06/building-a-simple-server-client-application-using-c/
 
         IPAddress ipAdress = IPAddress.Parse("127.0.0.1");
-        public void Test(string serverIpAdress)
+        public void Test(string serverIpAdress, string message)
         {
             TcpClient tcpClient = new TcpClient();
-            tcpClient.Connect(serverIpAdress, 8001);
+            tcpClient.Connect(serverIpAdress, 2345);
 
             String str = Console.ReadLine();
             Stream stm = tcpClient.GetStream();
@@ -27,7 +27,7 @@ namespace SECTH_Cliënt
             //Convert.ToByte(communicationFile);
 
             ASCIIEncoding asen = new ASCIIEncoding();
-            byte[] ba = asen.GetBytes(str);
+            byte[] ba = asen.GetBytes(message);
             Console.WriteLine("Sending...");
 
             stm.Write(ba, 0, ba.Length);

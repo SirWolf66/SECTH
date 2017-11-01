@@ -22,5 +22,12 @@ namespace WindowsFormsApp3
             SimpleServer a = new SimpleServer();
             
         }
+
+        private void button1_Click(object sender, EventArgs e)
+        {
+            SimpleServer simpleServer = new SimpleServer();
+            simpleServer.Start();
+            
+        }
     }
 }

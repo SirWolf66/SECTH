@@ -59,5 +59,11 @@ namespace SECTH_Cliënt
                 HighlightWords((": " + userSearch + ": "), richTextBox1);
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+            ClientCode clientCode = new ClientCode();
+            clientCode.Test("192.168.56.1", richTextBox1.Text);
+        }
     }
 }
