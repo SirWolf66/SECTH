@@ -6,3 +6,15 @@ c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliën
 c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.GenerateResource.Cache
 c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.exe
 c:\users\makoto\documents\visual studio 2017\Projects\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.pdb
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe.config
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.exe
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\bin\Debug\SECTH Cliënt.pdb
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csprojResolveAssemblyReference.cache
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Dashboard.resources
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Form1.resources
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Login.resources
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH_Cliënt.Properties.Resources.resources
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.GenerateResource.Cache
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.csproj.CoreCompileInputs.cache
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.exe
+C:\Users\Gilbert Creemers\Documents\GitHub\SECTH\SECTH Cliënt\SECTH Cliënt\obj\Debug\SECTH Cliënt.pdb
